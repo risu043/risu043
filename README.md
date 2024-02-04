@@ -1,6 +1,14 @@
 ### Hi there 👋
 ### My Apps
+javascript
 🌸<a href="https://risu043.github.io/github.io/">おみくじ</a>
+📝<a href="https://risu043.github.io/clac/">でんたく</a>
+✊<a href="https://risu043.github.io/janken/">じゃんけん</a>
+🔨<a href="https://risu043.github.io/mogura/">もぐらたたき</a>
+react+api
+📷<a href="https://risu043.github.io/image_search/">画像検索</a>
+⛅<a href="https://risu043.github.io/react-world-wether/">天気予報</a>
+🦖<a href="https://risu043.github.io/pokemon/">ポケモン図鑑</a>
 
 <!--
 **risu043/risu043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
