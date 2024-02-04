@@ -1,13 +1,13 @@
 ### Hi there 👋
 ### My Apps
-javascript
-🌸<a href="https://risu043.github.io/github.io/">おみくじ</a>
-📝<a href="https://risu043.github.io/clac/">でんたく</a>
-✊<a href="https://risu043.github.io/janken/">じゃんけん</a>
-🔨<a href="https://risu043.github.io/mogura/">もぐらたたき</a>
-react+api
-📷<a href="https://risu043.github.io/image_search/">画像検索</a>
-⛅<a href="https://risu043.github.io/react-world-wether/">天気予報</a>
+javascript<br>
+🌸<a href="https://risu043.github.io/github.io/">おみくじ</a><br>
+📝<a href="https://risu043.github.io/clac/">でんたく</a><br>
+✊<a href="https://risu043.github.io/janken/">じゃんけん</a><br>
+🔨<a href="https://risu043.github.io/mogura/">もぐらたたき</a><br>
+react+api<br>
+📷<a href="https://risu043.github.io/image_search/">画像検索</a><br>
+⛅<a href="https://risu043.github.io/react-world-wether/">天気予報</a><br>
 🦖<a href="https://risu043.github.io/pokemon/">ポケモン図鑑</a>
 
 <!--
