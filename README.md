@@ -1,4 +1,6 @@
 ### Hi there 👋
+### My Apps
+🌸<a href="https://risu043.github.io/github.io/">おみくじ</a>
 
 <!--
 **risu043/risu043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
