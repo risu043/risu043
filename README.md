@@ -9,7 +9,7 @@ javascript<br>
 react+api<br>
 📷<a href="https://risu043.github.io/image_search/">画像検索</a><br>
 ⛅<a href="https://risu043.github.io/react-wether-app/">天気予報</a><br>
-🦖<a href="https://risu043.github.io/pokemon/">ポケモン図鑑</a>
+🦖<a href="https://risu043.github.io/pokemon/">ポケモン図鑑</a><br>
 🦖<a href="https://risu043.github.io/pokemon-ja/">ポケモン図鑑(日本語)</a>
 <!--
 **risu043/risu043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
