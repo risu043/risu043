@@ -12,7 +12,7 @@ react+api<br>
 🦖<a href="https://risu043.github.io/pokemon/">ポケモン図鑑</a><br>
 🦖<a href="https://risu043.github.io/pokemon-ja/">ポケモン図鑑(日本語)</a>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?risu043=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=risu043)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **risu043/risu043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
