@@ -1,5 +1,6 @@
 ### Hi there 👋
 ### My Apps
+
 javascript<br>
 🌸<a href="https://risu043.github.io/github.io/">おみくじ</a><br>
 📝<a href="https://risu043.github.io/calc/">でんたく</a><br>
@@ -15,7 +16,9 @@ react+api+laravel<br>
 🦖<a href="https://risu-3-pokemon.net/">ポケモン図鑑</a><br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risu043&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<br>
+<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel)](https://skillicons.dev)
 <!--
 **risu043/risu043** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
