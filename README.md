@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### My Skill
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,php,laravel)](https://skillicons.dev)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risu043&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
