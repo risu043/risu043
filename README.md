@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://github.com/risu043/risu043/blob/main/risu_animation.gif" width="200" height="170" />
+
 ### My Skill
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next,php,laravel)](https://skillicons.dev)
 <br>
